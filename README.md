@@ -1,4 +1,4 @@
-# Ionic Firebase Analytics Demo
+# Ionic Login With Google
 Full tutorial [here]( https://pointdeveloper.com/add-ionic-login-with-google-plus/)
 
 <br/>
